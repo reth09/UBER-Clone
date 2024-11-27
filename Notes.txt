@@ -1,0 +1,2 @@
+- First of all we will make 2 folders
+- 1 for backend and 1 for frontend
